@@ -4,13 +4,6 @@
  */
 package crab;
 
-import javax.ejb.Singleton;
-
-/**
- *
- * @author admin
- */
-@Singleton
 public class networks implements networksLocal {
 
     // Add business logic below. (Right-click in editor and choose

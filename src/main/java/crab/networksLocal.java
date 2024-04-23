@@ -4,13 +4,11 @@
  */
 package crab;
 
-import javax.ejb.Local;
 
 /**
  *
  * @author admin
  */
-@Local
 public interface networksLocal {
     
 }
