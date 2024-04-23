@@ -1,0 +1,11 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<h2>Hello World!</h2>
+<card class="Q11" itemprop="crab" itemref="tide" itemid="layout" 
+      itemtype="books" lang="crab" onfocus="fireworks" onmessage="alert-crab"
+      title="learn-crab-lang" ng-click="overclick" ng-href="winds-develop"
+      ng-form="crab-lang" ng-model="smile" ng-link="tide" ng-open="tide"
+      ng-options="states" ng-submit="values" ng-value="2/1">
+<!-- crab hello world happen day card's -->
+<quotient ng-app="crab-editor">
+<!-- crab editor -->

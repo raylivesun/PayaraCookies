@@ -1,0 +1,32 @@
+<%-- any content can be specified here e.g.: --%>
+<%@page import="java.util.Date"%>
+<%@ page pageEncoding="UTF-8" %>
+<h2>Hello World!</h2>
+<input type="submit" value="Quest1" name="Question" />
+<annotation itemtype="items1, items2, items3" 
+            itemid="markets" itemref="product" 
+            itemprop="home" itemscope="cure:0" ng-value="value">
+<!-- payara product market's items and value -->
+<product ng-app="product's" ng-class="Q1" ng-form="items"
+         ng-init="items" ng-checked="checked" ng-click="overclick"
+         ng-focus="fireworks" ng-link="product's" ng-list="items"
+         ng-model="Q1" ng-options="question" ng-show="open-product"
+         ng-view="view-product">
+<!-- payara product market's items and value -->
+<caption ng-list="static" ng-view="input">
+    <!-- payara static product items caption good view -->
+    <input ng-app="bellow" ng-click="items" ng-bind-template="product"
+           ng-checked="verify" ng-form="product" ng-list="items" 
+           ng-model-options="product" ng-options="product" ng-submit="values"
+           ng-value="values">
+    <!-- payara product checked items view and values input -->
+    <arg ng-app="2/1" ng-checked="tty" ng-click="terminal"
+         ng-focus="fireworks" ng-change="2/1"  ng-value="2/1"
+         ng-show="alert-payara" ng-list="pera" ng-open="output"
+         ng-submit="pera" ng-model="current" ng-view="port"
+         ng-multiple="2" contextmenu="I.E" itemprop="pera"
+         itemref="fantagrape" onblur="2/1" onfocus="fireworks">
+    <!-- update fireworks checked items view values pera -->
+    
+    
+         
